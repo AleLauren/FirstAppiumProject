@@ -1,6 +1,6 @@
 # Test Cases - Training Wheels Protocol Mobile Version - QAcademy
 
-I've took the course "Introduction To Appium With Robotframework for Android Apps" from QAcademy school and along the lessons I've performed these test cases on the app. I've used the following setup:
+I've took the course "Introduction To Appium With Robotframework for Android Apps" from QAcademy school and along with lessons I've performed these test cases on the app. I've used the following setup:
 
 
 - [x] VScode IDE
